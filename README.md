@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development & Competitive programming
 - 🌱 I’m currently learning Core Java, DSA in C++ and Front-End Web Development.
 - 💞️ I’m looking to collaborate on GSOC[Google-Summer-Of-Code]
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 
 <!---
